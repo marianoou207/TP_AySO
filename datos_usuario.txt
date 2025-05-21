@@ -1,1 +1,3 @@
 “Usuario=ubuntu”
+CPU architecture: 8
+CPU implementer	: 0x61
