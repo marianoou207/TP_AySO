@@ -59,8 +59,6 @@ git add README
 git status
 git commit -m "hola mundo"
 git push origin main
-helo
-hello
 git init
 cd TP_AySO/
 ls -l
